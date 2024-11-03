@@ -1,0 +1,7 @@
+path:  /content/beans detectord734r764878 # Root directory for the dataset
+train:  images/train # Training images (relative to 'path')
+val:  images/val # Validation images (relative to 'path')
+
+# Class names
+names:
+  0: beans

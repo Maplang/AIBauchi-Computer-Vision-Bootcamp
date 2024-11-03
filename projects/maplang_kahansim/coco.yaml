@@ -1,9 +1,0 @@
-path: ../datasets/coco  # Root directory for the dataset
-
-train: train2017.txt  # Training images (relative to 'path')
-val: val2017.txt  # Validation imagesop
-
-
-# Class names
-names:
-  0: bean plant
